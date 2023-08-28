@@ -1,7 +1,5 @@
 # Web-3.0-Twitter-Clone
 
-# Decentratwitter
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
